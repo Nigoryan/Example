@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Example</string>
+    <string name="question_label">Question:</string>
+    <string name="question_text">Question text</string>
+    <string name="answer_label">Answer:</string>
+    <string name="answer_text">Answer text</string>
+</resources>
